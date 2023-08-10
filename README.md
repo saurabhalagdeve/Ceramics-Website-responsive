@@ -25,7 +25,8 @@ HTML5 CSS3 JavaScript (optional, for any interactive elements) Google Fonts API 
 
 Screen Shot 1 ⬆️⬆️⬆️
 
-![255886114-05b4a7d8-ff3c-493d-a15f-38ab10734340](https://github.com/saurabhalagdeve/Ceramics-Website-responsive/assets/127332934/f0381912-a78b-47ee-9c9c-70e4943c6357)
+![255886071-d316faa0-1c22-4f95-8854-6de7d8493dbd](https://github.com/saurabhalagdeve/Ceramics-Website-responsive/assets/127332934/5eb8997b-dad4-4758-ba49-ad9ba670df5b)
+
 
 Screen Shot 2 ⬆️⬆️⬆️
 
